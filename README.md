@@ -11,6 +11,11 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 - Angular
 - MongoDB
 
+## Projects that deployed
+- http://covidindiatrack.herokuapp.com/
+- mdbgqlserver.herokuapp.com
+- climateupdate.netlify.app
+
 ## How to reach me
 - Email: prabhatraush@gmail.com
 - Git Repository: https://github.com/prabhatraush
