@@ -1,4 +1,23 @@
 ### Hi there 👋
+## I'm Prabhat Raushan
+# A Web Developer
+I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Science and Engineering with Honors. I am working as a web developer. I am very passionate about things I work on.
+
+## I'm currently working on.. 
+- JavaScript
+- TypeScript
+- Nodejs
+- React
+- Angular
+- MongoDB
+
+## How to reach me
+- Email: prabhatraush@gmail.com
+- Git Repository: https://github.com/prabhatraush
+
+
+
+
 
 <!--
 **prabhatraush/prabhatraush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
