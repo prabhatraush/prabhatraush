@@ -13,7 +13,7 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 
 ## Projects that deployed
 - http://covidindiatrack.herokuapp.com/
-- https://mdbgqlserver.herokuapp.com
+- https://mdbgqlserver.herokuapp.com/graphql
 - https://climateupdate.netlify.app
 
 ## How to reach me
