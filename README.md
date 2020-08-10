@@ -11,7 +11,7 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 - Angular
 - MongoDB
 
-## Projects that deployed
+## Projects that are deployed
 - http://covidindiatrack.herokuapp.com/
 - https://mdbgqlserver.herokuapp.com/graphql
 - https://climateupdate.netlify.app
