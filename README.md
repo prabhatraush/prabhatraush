@@ -13,8 +13,8 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 
 ## Projects that deployed
 - http://covidindiatrack.herokuapp.com/
-- mdbgqlserver.herokuapp.com
-- climateupdate.netlify.app
+- https://mdbgqlserver.herokuapp.com
+- https://climateupdate.netlify.app
 
 ## How to reach me
 - Email: prabhatraush@gmail.com
