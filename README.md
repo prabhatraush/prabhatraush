@@ -12,9 +12,9 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 - MongoDB
 
 ## Projects that are deployed
-- [http://covidindiatrack.herokuapp.com/](http://covidindiatrack.herokuapp.com/){:target="_blank"}
-- [https://mdbgqlserver.herokuapp.com/graphql](https://mdbgqlserver.herokuapp.com/graphql){:target="_blank"}
-- [https://climateupdate.netlify.app](https://climateupdate.netlify.app){:target="_blank"}
+- [Covid India Track](http://covidindiatrack.herokuapp.com/)
+- [MdbGraphQLServer](https://mdbgqlserver.herokuapp.com/graphql)
+- [Climate UPdate](https://climateupdate.netlify.app)
 
 ## How to reach me
 - Email: prabhatraush@gmail.com
