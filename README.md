@@ -16,6 +16,7 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 - [MdbGraphQLServer](https://mdbgqlserver.herokuapp.com/graphql)
 - [ClimateUpdate](https://climateupdate.netlify.app)
 - [unSplashPhoto](https://unsplash-photos-react.vercel.app)
+- [NewsFeed-API](https://newsbulletin.herokuapp.com)
 
 ## How to reach me
 - Email: prabhatraush@gmail.com
