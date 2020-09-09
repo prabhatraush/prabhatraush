@@ -7,7 +7,6 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 - C and C++
 - Basic Java and Python
 - Data Structure and Algorithm
-- Angular
 
 ## Working Skills 
 - HTML and CSS
@@ -16,6 +15,7 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 - Nodejs
 - React
 - MongoDB
+- Angular
 
 ## Projects that are deployed
 - [CovidIndiaTrack-Angular](http://covidindiatrack.herokuapp.com/)
