@@ -24,6 +24,7 @@ I am a graduate from IIT Dhanbad, pursued Bachelor of Technology in Computer Sci
 - [unSplashPhoto-React](https://unsplash-photos-react.vercel.app)
 - [NewsFeed-API](https://newsbulletin.herokuapp.com)
 - [NewsFeed-React](https://newsfeed.vercel.app)
+- [Flexinema (Trailer-React-App)](https://flexinema-react.web.app)
 
 ## How to reach me
 - Email: prabhatraush@gmail.com
